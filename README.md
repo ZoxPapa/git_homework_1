@@ -5,3 +5,4 @@ This row i wrote in Visual Studio Code
 This row I wrote in Manual conflict resolution
 
 So this is homework2
+And I need add a couple of commits.
